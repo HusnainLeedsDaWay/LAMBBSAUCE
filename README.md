@@ -1,1 +1,1 @@
-# LAMBBSAUCE
+print('Pringles are the best')
